@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;HelloWorld.scala&apos; to &apos;ScalaStudy/src/cn.celloud.day1&apos;&#x0D;&#x0A;- Original project: &apos;ScalaStudy&apos;&#x0D;&#x0A;- Destination element: &apos;ScalaStudy/src/cn.celloud.day1&apos;&#x0D;&#x0A;- Original element: &apos;HelloWorld.scala&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move file" destination="/src&lt;cn.celloud.day1" element1="src/HelloWorld.scala" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1490586004785" units="0" version="1.0"/>
+</session>
