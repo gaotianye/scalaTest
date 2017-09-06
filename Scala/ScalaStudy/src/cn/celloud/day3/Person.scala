@@ -14,3 +14,10 @@ object Person {
     println(num2)
   }
 }
+/**
+ * 伴生类和伴生对象可以互相使用对方的private 字段
+ */
+class Person(var name:String,var age:Int){
+  def sayHello=println("Hi,"+name+",I am "+age+"years old...."+
+      "you must have "+Person.num+" eyes...")
+}
